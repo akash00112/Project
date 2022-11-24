@@ -1,0 +1,117 @@
+Red Zone Ticket Entry (Admin View) - View Page 3 of 4
+
+- ~ —-—_ ao ee — ee ce ee ——— — _
+
+ye : oe
+T> SHERIDAN
+Performance-Driven Physician Services
+oe RedZone Ticket Entry System
+
+Attachments richardson, briana125430pnotes. pdf
+(https://connectevps.envisionhealth.com/depts/rem/rzticketsys/Lists/Red%
+
+L 2Zone%20Ticket%20Entry%20Dev% 20View/Attachments/12543/richardson,%
+
+-20brianai25430pnotes.pdf}
+
+richardsonbriana.pdf
+
+(https://connectevps.envisionhealth.com/depts/rcm/riticketsys/Lists/Red%
+
+20Zone%20T icket% 20Entry%20Dev%
+
+20View/Attachments/12543/richardsonbriana.pdf}
+
+Created By Ratna, Chandrakala
+Ticket 41D: 12,543 BO oe
+Division ‘Anesthesia
+
+Division of Care
+
+- —_ - - -—«. . ee me ee —_ =
+
+Vendor Name: ‘ACN
+
+: a ~T TT . OO aa
+
+Facility
+
+oe ee ee “i mm EE
+
+Tallahassee Memorial Healthcare
+
+ee
+
+Name of Facility
+
+ee oe
+
+Note - Please select facility ID from below. This is a new field added to track red
+rone reports.
+
+1109 Be | confirm [109 — |
+
+ene ee eee -_ oo i ee ee ~~
+
+11006550212
+
+a —
+
+this can be a number or a text field - it is text mght now
+
+Facility ID
+
+MR #
+
+---—-- -ere—ee S.C
+Last Name BRINA _ _ — ee
+Last Name of Patient
+First Name RICHARDSON
+Patient First Name ee ek
+| DOS : 1/28/2019 , - ae |
+; Date of Service ; ae
+| Reason ‘Medlcat Record — a
+Reason for Red Zone
+Comment* Diagnosis Missing,
+Comment = detail of reason
+Notes
+
+Need op report for missing diagnosis
+
+Need diagnosis for 01/28/19 DOS (Labor converted to C- Section) and we need
+! labor epidural end time and C-Section start time as unclear timings in the
+anesthesia record
+| incorrect niformation provided, need OOS 1/28/19 - reopened JR 2/25
+
+| See attached times- It was epid. that went to an D&E.
+
+Additional text - not searchable - to explain “other” issues or names
+
+SHCR Acct # liza96067, _
+Sheridan Account Number
+
+a
+
+Status FA Closed
+| What step are we waiting for?
+
+mg
+
+- -—_ —— ——— ee ee _-_— a ee = rr — a —we ee =
+
+| Requested Date =! 2/14/2019
+
+—_——oi——_  — = —_—_— « -
+
+Requested Date
+
+-— a — an ete ee | ——— —_ ee
+
+Date F A Resolution Date Oe Oo -
+
+=
+
+https://connectevps.envisionhealth.com/depts/rem/rzticketsys/Lists
+
+———oEa—
+
